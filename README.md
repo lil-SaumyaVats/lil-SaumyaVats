@@ -60,7 +60,6 @@ Exploring bioinformatics and AI &amp; whatever rabbit hole I fall into next
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/lil-SaumyaVats">lil-SaumyaVats</a></i></p>
-## Hi there 👋
 
 <!--
 **lil-SaumyaVats/lil-SaumyaVats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
