@@ -15,7 +15,7 @@ Exploring bioinformatics and AI &amp; whatever rabbit hole I fall into next
 
 🔭 &nbsp;I'm currently working on **a couple of projects &amp; experiments**  
 🌱 &nbsp;I'm currently learning **Python, data analysis, computational biology &amp; a bit of AI..**  
-👯 &nbsp;I'm looking to collaborate on **interesting projects and small tools that solve real problem**  
+👯 &nbsp;I'm looking to collaborate on **interesting projects and small tools that solve real problems**  
 🤔 &nbsp;I'm looking for help with **getting better at open source**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **professional overthinker**
